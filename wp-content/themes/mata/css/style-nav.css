@@ -1,0 +1,72 @@
+.navbar-default {
+    background-color: #3498db;
+    border-color: white;
+    border: 0px;
+    height: 105px;
+    padding-left: 40px;
+}
+
+.navbar {
+    margin-bottom: 0px !important;
+    border-radius: 0px !important;
+}
+
+.brand-img
+{
+	height: 45px;
+    padding-right: 10px;
+}
+
+/* title */
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: white;
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.dropdown>a, .navbar-default .navbar-nav>.dropdown>a:focus, .navbar-default .navbar-nav>.dropdown>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+	text-transform: uppercase;
+    color: white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.navbar-default ul li
+{
+	padding-top: 13px;
+	padding-right: 10px;
+}
+
+.navbar-default ul .dropdown-menu li
+{
+    padding: 0px;
+    padding-right: none !important;
+}
+
+.navbar-default ul li .dropdown-menu a
+{
+    padding: 15px;
+}

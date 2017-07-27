@@ -1,0 +1,20 @@
+input[type=text], input[type=email], input[type=date] {
+    margin: 1%;
+    width: 100%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.adm-formulario {
+    width: 50%;
+}
+.adm-formulario2 {
+    width: 95%;
+}
+.adm-lista-atracoes {
+    padding: 1%;
+    margin: 1%;
+    box-shadow: #ccc 0px 0px 1px;
+    width: 46%;
+    float: left;
+}

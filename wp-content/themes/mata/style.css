@@ -1,0 +1,15 @@
+/*
+Theme Name: Destino Turístico Vale do Aço
+Description: Destino Turístico Vale do Aço
+Version: 1.0
+Author: Wanber Alexandre, Rafael Fonseca
+Author URI: http://cma.com.br
+Theme URI: http://cma.com.br
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: cma
+*/
+
+a:hover, a:active, a:focus {
+    outline: none !important;
+}

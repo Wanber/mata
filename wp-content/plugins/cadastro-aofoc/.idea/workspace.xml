@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb6a183a-07d5-4649-9629-c244948832e8" name="Default" comment="" />
+    <ignored path="cadastro-aofoc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cadastro-aofoc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+              <folding>
+                <marker date="1487101708802" expanded="true" signature="2513:3676" ph="CREATE TABLE... ${$tablename}" />
+                <marker date="1487101708802" expanded="true" signature="3864:3991" ph="CREATE TABLE... ${$tablename2}" />
+                <marker date="1487101708802" expanded="true" signature="4181:4485" ph="CREATE TABLE... ${$tablename3}" />
+                <marker date="1487101708802" expanded="true" signature="5223:5440" ph="SELECT id FR... wp_prefixdados" />
+                <marker date="1487101708802" expanded="true" signature="5680:5907" ph="SELECT id FR... wp_prefixdados" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-ui.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin-ui.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <marker date="1487163405914" expanded="true" signature="3333:3422" ph="SELECT COUNT... wp_prefixfotos" />
+                <marker date="1487163405914" expanded="true" signature="3466:3586" ph="SELECT COUNT... wp_prefixdados" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagina-cidades.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagina-cidades.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+              <folding>
+                <marker date="1487035891035" expanded="true" signature="1003:1077" ph="SELECT * FRO... wp_prefixdados" />
+                <marker date="1487035891035" expanded="true" signature="1003:1079" ph="SELECT * FRO... wp_prefixdados" />
+                <marker date="1487035891035" expanded="true" signature="1003:1095" ph="SELECT * FRO... wp_prefixdados" />
+                <marker date="1487035891035" expanded="true" signature="1228:1563" ph="..." />
+                <marker date="1487035891035" expanded="true" signature="1438:1540" ph="..." />
+                <marker date="1487035891035" expanded="true" signature="1444:1504" ph="..." />
+                <marker date="1487035891035" expanded="true" signature="1444:1531" ph="..." />
+                <marker date="1487035891035" expanded="true" signature="3255:3319" ph="SELECT * FRO... wp_prefixcidades" />
+                <marker date="1487035891035" expanded="true" signature="4313:4689" ph="..." />
+                <marker date="1487035891035" expanded="true" signature="4437:4580" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="final-ui.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final-ui.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2686">
+              <caret line="158" column="22" lean-forward="false" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagina-novo-editar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagina-novo-editar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+              <folding>
+                <marker date="1487000643659" expanded="true" signature="2891:3124" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3003:3101" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3009:3092" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3248:3521" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3400:3498" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3406:3489" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3642:3879" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3766:3860" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3772:3851" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="3948:4042" ph="SELECT * FRO... wp_prefixdados" />
+                <marker date="1487000643659" expanded="true" signature="4216:4482" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="4377:4467" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="4383:4458" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="36006:36070" ph="SELECT * FRO... wp_prefixcidades" />
+                <marker date="1487000643659" expanded="false" signature="37464:37483" ph="..." />
+                <marker date="1487000643659" expanded="true" signature="37484:37735" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str</find>
+      <find>(</find>
+      <find>atual</find>
+      <find>Boas notícias</find>
+      <find>atuali</find>
+      <find>add_registro_foto</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../../politech/wp-content/themes/politech/index.php" />
+        <option value="$USER_HOME$/Desktop/index.php" />
+        <option value="$PROJECT_DIR$/../../../../politech/.htaccess" />
+        <option value="$PROJECT_DIR$/../../../wp-admin/edit.php" />
+        <option value="$PROJECT_DIR$/../../../wp-admin/edit-tags.php" />
+        <option value="$PROJECT_DIR$/../../../../politech/wp-content/themes/politech/functions.php" />
+        <option value="$PROJECT_DIR$/../../themes/tema base/index.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata/sidebar-filtro-parceiros.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/sidebar-toppage.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-sobre.php" />
+        <option value="$PROJECT_DIR$/uninstall.php" />
+        <option value="$PROJECT_DIR$/pagina-principal.php" />
+        <option value="$PROJECT_DIR$/pagina-pendentes.php" />
+        <option value="$PROJECT_DIR$/pagina-eventos-pendentes.php" />
+        <option value="$PROJECT_DIR$/pagina-eventos-principal.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-contato.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/functions.php" />
+        <option value="$PROJECT_DIR$/../newsletters-lite/views/default2/js/bootstrap(bkp).js" />
+        <option value="$USER_HOME$/Downloads/CustomFileInputs/index.html" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/lightbox/index.html" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/js/jquery-mask.mi.js" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-olhar-dos-visitantes.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-agenda.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/header.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/js/meiomask.js" />
+        <option value="$PROJECT_DIR$/pagina-novo.php" />
+        <option value="$PROJECT_DIR$/pagina-eventos-novo.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/css/style.css" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-form-cadastro.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-parceiro.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/footer.php" />
+        <option value="$PROJECT_DIR$/pagina-olhar-pendentes.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/page-parceiros.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/index.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata2/sidebar-filtro.php" />
+        <option value="$USER_HOME$/Desktop/mata2/js/scripts.js" />
+        <option value="$USER_HOME$/Desktop/mata2/functions.php" />
+        <option value="$USER_HOME$/Desktop/mata2/footer.php" />
+        <option value="$USER_HOME$/Desktop/mata2/header.php" />
+        <option value="$USER_HOME$/Desktop/mata2/index.php" />
+        <option value="$PROJECT_DIR$/../../../../politech/wp-content/themes/politech/style.css" />
+        <option value="$PROJECT_DIR$/pagina-olhar-principal.php" />
+        <option value="$PROJECT_DIR$/final-ui.php" />
+        <option value="$PROJECT_DIR$/pagina-novo-editar.php" />
+        <option value="$PROJECT_DIR$/pagina-novo-novo.php" />
+        <option value="$PROJECT_DIR$/pagina-eventos-novo-novo.php" />
+        <option value="$PROJECT_DIR$/pagina-eventos-novo-editar.php" />
+        <option value="$PROJECT_DIR$/pagina-cidades.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin-ui.php" />
+        <option value="$PROJECT_DIR$/../../themes/mata/sidebar-filtro.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cadastro-aofoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cadastro-aofoc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.23212537" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\teste plugin\wp-content\themes\tema base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\teste plugin\wp-content\plugins\cadastro-aofoc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb6a183a-07d5-4649-9629-c244948832e8" name="Default" comment="" />
+      <created>1464886722854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464886722854</updated>
+      <workItem from="1464886724117" duration="10107000" />
+      <workItem from="1465081355023" duration="3640000" />
+      <workItem from="1465211492091" duration="3369000" />
+      <workItem from="1465237047898" duration="14456000" />
+      <workItem from="1465321245213" duration="11025000" />
+      <workItem from="1465530817805" duration="2016000" />
+      <workItem from="1465585553358" duration="3199000" />
+      <workItem from="1465769161407" duration="3766000" />
+      <workItem from="1465842502242" duration="17144000" />
+      <workItem from="1465863719658" duration="2685000" />
+      <workItem from="1465911439412" duration="1159000" />
+      <workItem from="1465921666748" duration="4284000" />
+      <workItem from="1466024187728" duration="977000" />
+      <workItem from="1466477602039" duration="935000" />
+      <workItem from="1467061329457" duration="108000" />
+      <workItem from="1471619616238" duration="3943000" />
+      <workItem from="1471624065278" duration="8864000" />
+      <workItem from="1471659240658" duration="11408000" />
+      <workItem from="1471814615452" duration="52282000" />
+      <workItem from="1471983665132" duration="830000" />
+      <workItem from="1471988763434" duration="34551000" />
+      <workItem from="1472324462503" duration="4738000" />
+      <workItem from="1472341049903" duration="135000" />
+      <workItem from="1472438810237" duration="3877000" />
+      <workItem from="1472446295197" duration="630000" />
+      <workItem from="1472487916552" duration="3342000" />
+      <workItem from="1472606015811" duration="12105000" />
+      <workItem from="1472776536352" duration="4431000" />
+      <workItem from="1485882452159" duration="128000" />
+      <workItem from="1485885899977" duration="743000" />
+      <workItem from="1486485257643" duration="172000" />
+      <workItem from="1486486702760" duration="49000" />
+      <workItem from="1486558131987" duration="2007000" />
+      <workItem from="1486565745895" duration="185000" />
+      <workItem from="1486566149804" duration="30000" />
+      <workItem from="1486566727752" duration="22000" />
+      <workItem from="1486572682306" duration="326000" />
+      <workItem from="1486742915800" duration="1511000" />
+      <workItem from="1486999395068" duration="1506000" />
+      <workItem from="1487004005863" duration="388000" />
+      <workItem from="1487035179344" duration="1311000" />
+      <workItem from="1487072230888" duration="4000" />
+      <workItem from="1487100657510" duration="1026000" />
+      <workItem from="1487162983193" duration="359000" />
+      <workItem from="1487163392260" duration="825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="230598000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28214827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\xampp\htdocs\teste plugin</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-contato.php" />
+    <entry file="file://$PROJECT_DIR$/pagina-eventos-principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="34" column="86" lean-forward="false" selection-start-line="34" selection-start-column="86" selection-end-line="34" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../newsletters-lite/views/default2/js/bootstrap(bkp).js" />
+    <entry file="file://$PROJECT_DIR$/../../../wp-admin/nav-menus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1413">
+          <caret line="542" column="96" lean-forward="false" selection-start-line="542" selection-start-column="89" selection-end-line="542" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-admin/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="341" column="12" lean-forward="false" selection-start-line="341" selection-start-column="12" selection-end-line="341" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-admin/edit-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2278">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/js/bootstrap.min(bkp).js" />
+    <entry file="file://$PROJECT_DIR$/../../../../lilica wp/wp-content/themes/lilica/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CustomFileInputs/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/lightbox/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/js/jquery-mask.mi.js" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-olhar-dos-visitantes.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-agenda.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/js/meiomask.js" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/header.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/pagina-principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-pendentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="73" column="145" lean-forward="false" selection-start-line="69" selection-start-column="19" selection-end-line="73" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-form-cadastro.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/functions.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/footer.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-parceiro.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/index.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/page-parceiros.php" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/flexslider/woothemes-FlexSlider-5a07806/jquery.flexslider.js" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/js/scripts.js" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/footer.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/mata2/sidebar-filtro.php" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/header.php" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/style.css" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/page-contato.php" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/index.php" />
+    <entry file="file://$USER_HOME$/Desktop/mata2/functions.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../politech/wp-content/themes/politech/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-novo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-eventos-pendentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-eventos-novo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mata/header-parceiro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-novo-novo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="173" column="102" lean-forward="false" selection-start-line="173" selection-start-column="94" selection-end-line="173" selection-end-column="102" />
+          <folding>
+            <marker date="1487035612488" expanded="true" signature="2274:2547" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2426:2524" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2432:2515" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2720:2955" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2834:2932" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2840:2923" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="2980:3128" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3033:3101" ph="{...}" />
+            <marker date="1487035612488" expanded="true" signature="3260:3537" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3416:3514" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3422:3505" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3562:3710" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3615:3683" ph="{...}" />
+            <marker date="1487035612488" expanded="true" signature="3845:4082" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3969:4063" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="3975:4054" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="4103:4235" ph="..." />
+            <marker date="1487035612488" expanded="true" signature="4152:4212" ph="{...}" />
+            <marker date="1487035612488" expanded="true" signature="29881:29945" ph="SELECT * FRO... wp_prefixcidades" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-eventos-novo-novo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="162" column="102" lean-forward="false" selection-start-line="162" selection-start-column="102" selection-end-line="162" selection-end-column="102" />
+          <folding>
+            <marker date="1487035612495" expanded="true" signature="2238:2511" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2321:2511" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2390:2488" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2396:2479" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2691:2926" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2805:2903" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="2811:2894" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3058:3322" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3201:3299" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3207:3290" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3457:3693" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3580:3674" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="3586:3665" ph="..." />
+            <marker date="1487035612495" expanded="true" signature="10867:10931" ph="SELECT * FRO... wp_prefixcidades" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-eventos-novo-editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="171" column="93" lean-forward="false" selection-start-line="171" selection-start-column="93" selection-end-line="171" selection-end-column="93" />
+          <folding>
+            <marker date="1487035635822" expanded="true" signature="2855:3088" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="2967:3065" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="2973:3056" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3212:3485" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3364:3462" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3370:3453" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3606:3842" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3729:3823" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3735:3814" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="3911:4005" ph="SELECT * FRO... wp_prefixdados" />
+            <marker date="1487035635822" expanded="true" signature="4179:4445" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="4340:4430" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="4346:4421" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="11287:11351" ph="SELECT * FRO... wp_prefixcidades" />
+            <marker date="1487035635822" expanded="false" signature="15062:15081" ph="..." />
+            <marker date="1487035635822" expanded="true" signature="15082:15333" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-olhar-pendentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="84" column="66" lean-forward="false" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="66" />
+          <folding>
+            <marker date="1472698887090" expanded="true" signature="1877:1951" ph="SELECT * FRO... wp_prefixfotos" />
+            <marker date="1472698887090" expanded="true" signature="2083:2192" ph="SELECT cidad... wp_prefixcidades" />
+            <marker date="1472698887090" expanded="true" signature="3711:4266" ph="..." />
+            <marker date="1472698887090" expanded="true" signature="3831:3956" ph="..." />
+            <marker date="1472698887090" expanded="true" signature="4158:4266" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-olhar-principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="129" lean-forward="false" selection-start-line="10" selection-start-column="129" selection-end-line="10" selection-end-column="129" />
+          <folding>
+            <marker date="1486560068099" expanded="true" signature="443:540" ph="DELETE FROM " />
+            <marker date="1486560068099" expanded="true" signature="696:770" ph="SELECT * FRO... wp_prefixfotos" />
+            <marker date="1486560068099" expanded="true" signature="696:794" ph="SELECT * FRO... wp_prefixfotos" />
+            <marker date="1486560068099" expanded="true" signature="1008:1014" ph=" " />
+            <marker date="1486560068099" expanded="true" signature="1014:1020" ph=" " />
+            <marker date="1486560068099" expanded="true" signature="1020:1026" ph=" " />
+            <marker date="1486560068099" expanded="true" signature="1189:1275" ph="..." />
+            <marker date="1486560068099" expanded="true" signature="3026:3108" ph="SELECT * FRO... wp_prefixfotos" />
+            <marker date="1486560068099" expanded="true" signature="3239:3348" ph="SELECT cidad... wp_prefixcidades" />
+            <marker date="1486560068099" expanded="true" signature="5115:5670" ph="..." />
+            <marker date="1486560068099" expanded="true" signature="5235:5360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final-ui.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="22" lean-forward="false" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+          <folding>
+            <marker date="1487101708802" expanded="true" signature="2513:3676" ph="CREATE TABLE... ${$tablename}" />
+            <marker date="1487101708802" expanded="true" signature="3864:3991" ph="CREATE TABLE... ${$tablename2}" />
+            <marker date="1487101708802" expanded="true" signature="4181:4485" ph="CREATE TABLE... ${$tablename3}" />
+            <marker date="1487101708802" expanded="true" signature="5223:5440" ph="SELECT id FR... wp_prefixdados" />
+            <marker date="1487101708802" expanded="true" signature="5680:5907" ph="SELECT id FR... wp_prefixdados" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mata/page-parceiros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="71" column="167" lean-forward="false" selection-start-line="71" selection-start-column="96" selection-end-line="71" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-novo-editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+          <folding>
+            <marker date="1487000643659" expanded="true" signature="2891:3124" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3003:3101" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3009:3092" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3248:3521" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3400:3498" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3406:3489" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3642:3879" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3766:3860" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3772:3851" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="3948:4042" ph="SELECT * FRO... wp_prefixdados" />
+            <marker date="1487000643659" expanded="true" signature="4216:4482" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="4377:4467" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="4383:4458" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="36006:36070" ph="SELECT * FRO... wp_prefixcidades" />
+            <marker date="1487000643659" expanded="false" signature="37464:37483" ph="..." />
+            <marker date="1487000643659" expanded="true" signature="37484:37735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/mata/sidebar-filtro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding>
+            <marker date="1487168913863" expanded="true" signature="950:1395" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="2198:2654" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="3407:3863" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="4610:5061" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="5787:6211" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="6926:7345" ph="..." />
+            <marker date="1487168913863" expanded="true" signature="8101:8557" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-cidades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+          <folding>
+            <marker date="1487035891035" expanded="true" signature="1003:1077" ph="SELECT * FRO... wp_prefixdados" />
+            <marker date="1487035891035" expanded="true" signature="1003:1079" ph="SELECT * FRO... wp_prefixdados" />
+            <marker date="1487035891035" expanded="true" signature="1003:1095" ph="SELECT * FRO... wp_prefixdados" />
+            <marker date="1487035891035" expanded="true" signature="1228:1563" ph="..." />
+            <marker date="1487035891035" expanded="true" signature="1438:1540" ph="..." />
+            <marker date="1487035891035" expanded="true" signature="1444:1504" ph="..." />
+            <marker date="1487035891035" expanded="true" signature="1444:1531" ph="..." />
+            <marker date="1487035891035" expanded="true" signature="3255:3319" ph="SELECT * FRO... wp_prefixcidades" />
+            <marker date="1487035891035" expanded="true" signature="4313:4689" ph="..." />
+            <marker date="1487035891035" expanded="true" signature="4437:4580" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jQuery.mmenu-master/demo/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="74" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-ui.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <marker date="1487163405914" expanded="true" signature="3333:3422" ph="SELECT COUNT... wp_prefixfotos" />
+            <marker date="1487163405914" expanded="true" signature="3466:3586" ph="SELECT COUNT... wp_prefixdados" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
